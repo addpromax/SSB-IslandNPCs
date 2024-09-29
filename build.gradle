@@ -20,7 +20,7 @@ allprojects {
 
     dependencies {
         compileOnly "com.bgsoftware.common.reflection:ReflectionUtils:latest"
-        compileOnly "com.bgsoftware:SuperiorSkyblockAPI:2022.9"
+        compileOnly "com.bgsoftware:SuperiorSkyblockAPI:2024.3"
     }
 
     build {
