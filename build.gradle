@@ -30,8 +30,7 @@ allprojects {
 
 subprojects {
     shadowJar {
-        archiveFileName = "${project.name}.jar"
-        destinationDirectory = file("../archive/")
+        archiveFileName = "ssb.jar"
     }
 }
 
